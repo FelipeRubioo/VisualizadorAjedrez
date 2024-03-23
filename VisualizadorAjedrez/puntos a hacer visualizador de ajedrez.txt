@@ -1,0 +1,1 @@
+visualizador de ajedrez puntos 6 y 12
